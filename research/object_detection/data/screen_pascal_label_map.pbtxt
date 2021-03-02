@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'screen'
+}
+
+item {
+  id: 2
+  name: 'box'
+}
